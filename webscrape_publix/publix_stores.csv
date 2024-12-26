@@ -1,24 +1,28 @@
-storeNumber,name,streetAddress,city,state,zip,phoneNumber
+storeNumber,name,streetAddress,city,state,zip,phoneNumber,hours
+1544,Publix Pointe,1441 Kelly Rd,Apex,NC,27502,9193036200
+1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,27518-1541,9193034024
+1466,Bradford,1020 Bradford Plaza Way,Cary,NC,27519,9194602082
+1552,Amberly Place,425 Emissary Dr,Cary,NC,27519,9193887201
+1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,28803-3207,8282746287
+1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,28787,8286581020
+1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,28607,8282638126
+1677,Publix Commons at Federal Point,1018 Lake Park Blvd N Ste 107,Carolina Beach,NC,28428,9104588615
+1652,Peace,417 W Peace St Ste 100,Raleigh,NC,27603,9197555444
+1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,27613,9198483480
 1453,Shops at Southline,2222 South Blvd,Charlotte,NC,28203-6581,7043732122
 1518,Cotswold,4425 Randolph Rd,Charlotte,NC,28211,7043675208
 1480,Whitehall Commons,8120 S Tryon St,Charlotte,NC,28273-3325,7045832323
 1824,Publix at Arboretum,7933 Providence Rd,Charlotte,NC,28277,
 2017,Carmel Commons,11525 Carmel Commons Blvd,Charlotte,NC,28226-5317,7044965209
-1652,Peace,417 W Peace St Ste 100,Raleigh,NC,27603,9197555444
-1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,27616,
-1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,27407,3368942591
+1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,28027,7047957127
+1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,28075,7044547832
 1817,Marketplace at Ellis Crossing,1065 Yunus Rd,Durham,NC,27703-7200,9195980245
 1888,Latta Park,4628 Guess Rd,Durham,NC,27712-2624,
-1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,28303,9103210114
-1466,Bradford,1020 Bradford Plaza Way,Cary,NC,27519,9194602082
-1520,Millpond Village,3480 Kildaire Farm Rd,Cary,NC,27518-1541,9193034024
-1552,Amberly Place,425 Emissary Dr,Cary,NC,27519,9193887201
-1544,Publix Pointe,1441 Kelly Rd,Apex,NC,27502,9193036200
-1551,Leesville Market Place,9640 Leesville Rd,Raleigh,NC,27613,9198483480
-1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,27262,3369058610
-1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,27858,2527564682
 1521,Hoffman Village,1949 Hoffman Rd,Gastonia,NC,28054-6574,7048537000
-1706,Church Street Commons,2750 S Church St,Burlington,NC,27215,3365861873
+1658,Grandover Village,6029 W Gate City Blvd,Greensboro,NC,27407,3368942591
+1569,Greenville Square,705 Greenville Blvd SE,Greenville,NC,27858,2527564682
+1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,28792,8286944440
+1582,Westchester Square,2005 N Main St Ste 101,High Point,NC,27262,3369058610
 1481,Market Square,9815 Rose Commons Dr,Huntersville,NC,28078-3334,7049484801
 1765,North Creek Village,15010 Village Crossing Rd,Huntersville,NC,28078,7049770021
 1509,Prosperity Village Square,10110 Benfield Rd,Charlotte,NC,28269,7049926951
@@ -27,25 +31,25 @@ storeNumber,name,streetAddress,city,state,zip,phoneNumber
 1556,Shoppes at Hanfield Village,5132 Old Charlotte Hwy,Monroe,NC,28110,7042896598
 1470,Mint Hill Commons,6828 Matthews Mint Hill Rd,Mint Hill,NC,28227-9324,7045730234
 1484,McKee Farms,3110 Fincher Farm Rd,Matthews,NC,28105-5462,7048146001
-1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,28115,7043606915
-1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,28117-6204,7046606800
 1660,Gateway Marketplace,2001 Marlin Dr Unit 100,Jacksonville,NC,28546,9103530433
-1473,Pinnacle Point,1830 Hendersonville Rd,Asheville,NC,28803-3207,8282746287
-1546,Weaverville Plaza,165 Weaver Blvd,Weaverville,NC,28787,8286581020
-1490,Willow Oaks Crossing,5015 Weddington Rd,Concord,NC,28027,7047957127
-1555,Harris Square,4055 Harris Square Dr,Harrisburg,NC,28075,7044547832
-1539,North Pointe Shopping Center,134 Venture Ln,Statesville,NC,28625,7048784073
-1533,River Place,2004 S Glenburnie Rd,New Bern,NC,28562-5227,2526341646
-1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,28412,9103132201
-1580,Ogden Market Place,7144 Market St,Wilmington,NC,28411,9106813555
-1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,27527,9195502812
+1886,Buffaloe Bend,7330 Buffaloe Rd,Raleigh,NC,27616,
 1744,Publix at Wendell Falls,2257 Wendell Falls Pkwy,Wendell,NC,27591,9193657055
-2031,Middlecreek Crossings,16100 NC Hwy 50 N,Garner,NC,27529,
+1855,Wallbrook,821 S Main Street,Rolesville,NC,27571-8800,
 1442,Ballantyne Town Center,11222 Providence Rd W,Charlotte,NC,28277,7047162344
 1704,Marvin Gardens,1615 Providence Rd S,Marvin,NC,28173,7048430119
+1872,Harris Farms Shopping Center,1254 Coddle Creek Hwy,Mooresville,NC,28115,7043606915
+1519,Brawley Commons,631 Brawley School Rd,Mooresville,NC,28117-6204,7046606800
+1580,Ogden Market Place,7144 Market St,Wilmington,NC,28411,9106813555
+1516,Publix at Pine Valley,716 Bragg Dr,Wilmington,NC,28412,9103132201
+1533,River Place,2004 S Glenburnie Rd,New Bern,NC,28562-5227,2526341646
 1703,Oak Island Marketplace,5003 E Oak Island Dr,Oak Island,NC,28465,9102786785
+1419,Publix On Gold Hill,928 Gold Hill Rd,Fort Mill,SC,29708-7947,8035487900
+1483,Steele Creek Crossing,12810 S Tryon St,Charlotte,NC,28273-6949,7045870339
+1412,Cross Creek,8360 Charlotte Hwy,Indian Land,SC,29707-6532,8035489000
+1727,Marketplace at Flowers Crossroads,24 Publix Dr,Clayton,NC,27527,9195502812
+1575,Tallywood Shopping Center,3114 Raeford Rd,Fayetteville,NC,28303,9103210114
 1514,The Shoppes at Heritage Village,1030 Forestville Rd,Wake Forest,NC,27587,9195566671
-1855,Wallbrook,821 S Main Street,Rolesville,NC,27571-8800,
 1640,Waynesville Pavilion,124 Frazier St,Waynesville,NC,28786,8284545700
-1548,Publix at Three Creeks,1620 Blowing Rock Rd,Boone,NC,28607,8282638126
-1586,South Market Village,635 Greenville Hwy,Hendersonville,NC,28792,8286944440
+1475,Publix at Miller Street,34 Miller St,Winston-Salem,NC,27104-4212,3367243707
+1858,West Edge,5525 Robin Lark Cir,Winston-Salem,NC,27106-9906,3368156007
+1574,Peace Haven Village,3150 Gammon Ln,Clemmons,NC,27012,3367662069
